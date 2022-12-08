@@ -26,3 +26,8 @@ const bicicleta = {
     esMotorizado: false,
 };
 
+
+const vehiculoDesconocido ={
+
+}
+
