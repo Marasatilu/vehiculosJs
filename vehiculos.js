@@ -29,6 +29,7 @@ const vehicle4 = {
 
 
 function vehicle (){
+	document.getElementById("resultado").value;
 	if(vehicle1){
 		return 'Coche';
 	}else if(vehicle2){
