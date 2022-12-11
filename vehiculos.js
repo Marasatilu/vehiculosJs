@@ -28,7 +28,6 @@ const vehicle4 = {
 
 
 
-
 function vehicle (){
 	if(vehicle1){
 		return 'Coche';
@@ -45,3 +44,4 @@ function vehicle (){
 
 const vehicles=[vehicle1, vehicle2, vehicle3, vehicle4];
 console.log(vehicles);
+
